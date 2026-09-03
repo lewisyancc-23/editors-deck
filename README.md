@@ -1,6 +1,7 @@
 # 🎛️ Editors Deck
 
 > A DIY hardware controller for video editing, inspired by gaming controllers and dedicated creative interfaces.
+> This project is still in progress. Stay tuned!
 
 ## 💡 Inspiration
 
