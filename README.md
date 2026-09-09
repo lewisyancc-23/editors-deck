@@ -3,7 +3,7 @@
 > A DIY hardware controller for video editing, inspired by gaming controllers and dedicated creative interfaces.
 > This project is still in progress. Stay tuned!
 
-## 💡 Inspiration
+##  Inspiration
 
 The idea for Editors Deck came from combining two things I really enjoy: **video editing and gaming**.
 
@@ -11,31 +11,29 @@ I was inspired by dedicated creative controllers such as **TourBox**, which intr
 
 As someone who enjoys gaming, I also wondered:
 
-> **What if video editing could feel a little more like gaming? 🎮**
+> **What if video editing could feel a little more like gaming? **
 
 This project explores that idea by combining familiar gaming-style controls with video editing shortcuts.
 
-Editors Deck is an independently developed student project and is not affiliated with or endorsed by TourBox.
+---
+
+##  Features
+
+-  Joystick-based controls
+-  Volume control
+-  Timeline navigation
+-  Trim
+-  Cut
+-  Copy
+-  Delete
+-  Play / Pause
+-  LCD display
+-  Arduino-based hardware
+-  Python + PyAutoGUI automation
 
 ---
 
-## ✨ Features
-
-- 🎮 Joystick-based controls
-- 🔊 Volume control
-- ⏪ Timeline navigation
-- ✂️ Trim
-- ✂️ Cut
-- 📋 Copy
-- 🗑️ Delete
-- ▶️ Play / Pause
-- 🖥️ LCD display
-- 🔌 Arduino-based hardware
-- 🐍 Python + PyAutoGUI automation
-
----
-
-## 🎮 Controls
+##  Controls
 
 | Control | Function |
 |---|---|
@@ -51,7 +49,7 @@ Editors Deck is an independently developed student project and is not affiliated
 
 ---
 
-## 🧠 System Overview
+##  System Overview
 
 ```text
 Joystick + Buttons
@@ -70,7 +68,7 @@ Joystick + Buttons
 ```
 ---
 
-## 🔧 Hardware
+##  Hardware
 - Arduino UNO
 - Analog Joystick
 - Push Buttons
@@ -80,14 +78,14 @@ Joystick + Buttons
 
 ---
 
-## 💻 Software
+##  Software
 - Arduino IDE
 - Python
 - PyAutoGUI
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```text
 editors-deck/
 │
@@ -106,4 +104,16 @@ editors-deck/
 
 ---
 
+##  Potential Improvements?
+- Improved joystick calibration
+- Configurable button mapping
+- More editing shortcuts
+- Custom PCB
+- Support for additional editing software
 
+##  Acknowledgements
+This project was inspired by gaming controllers and their interaction design, as well as dedicated creative controllers such as TourBox.
+> Editor's Deck is an independently developed project created for learning, experimentation, and portfolio purposes.
+
+##  License
+This project is licensed under the MIT License.
