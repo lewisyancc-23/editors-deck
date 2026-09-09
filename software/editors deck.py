@@ -3,7 +3,7 @@ import time
 import pyautogui
 
 # SETTINGS
-SERIAL_PORT = "COM5" //Change the serial port based on the Serial Port.
+SERIAL_PORT = "COM5" #Change the COM based on the Serial Port.
 BAUD_RATE = 115200
 
 # CONNECT
