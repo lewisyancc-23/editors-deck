@@ -3,7 +3,7 @@ import time
 import pyautogui
 
 # SETTINGS
-SERIAL_PORT = "COM5"
+SERIAL_PORT = "COM5" //Change the serial port based on the Serial Port.
 BAUD_RATE = 115200
 
 # CONNECT
@@ -125,7 +125,7 @@ def execute_command(command):
 
     # REHYDRATE
     elif command == "REHYDRATE":
-        print("💧 Rehydration reminder!")
+        print("Rehydration reminder!")
 
     # READY
     elif command == "EDITORS DECK READY":
