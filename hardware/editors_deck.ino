@@ -18,10 +18,10 @@ const int BUTTON_4 = 5;
 // JOYSTICK CALIBRATION
 // =====================================================
 
-const int CENTER_X = 506;
-const int CENTER_Y = 511;
+const int CENTER_X = 506; //Change this to the value obtained from File 1. joystick calibration
+const int CENTER_Y = 511; //Change this to the value obtained from File 1. joystick calibration
 
-const int DEADZONE = 150;
+const int DEADZONE = 150; //Change this to the value obtained from File 1. joystick calibration
 
 // =====================================================
 // TIMING
